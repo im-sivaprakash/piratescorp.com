@@ -333,7 +333,6 @@ a{
         text-transform: lowercase;
         font-style: italic;
         font-family: "Roboto";
-        opacity: 70%;
         color: var(--black);
         font-size: 1rem;
       }
@@ -891,7 +890,6 @@ nav{
         text-transform: lowercase;
         font-style: italic;
         font-family: "Roboto";
-        opacity: 70%;
         color: var(--black);
         font-size: 1rem;
       }
@@ -1473,7 +1471,7 @@ nav{
         text-transform: lowercase;
         font-style: italic;
         font-family: "Roboto";
-        opacity: 70%;
+       
         color: var(--black);
         font-size: 1rem;
       }
@@ -2100,7 +2098,7 @@ nav{
         text-transform: lowercase;
         font-style: italic;
         font-family: "Roboto";
-        opacity: 70%;
+      
         color: var(--black);
         font-size: 1rem;
       }
@@ -2734,7 +2732,7 @@ nav{
         text-transform: lowercase;
         font-style: italic;
         font-family: "Roboto";
-        opacity: 70%;
+        
         color: var(--black);
         font-size: 1rem;
       }
