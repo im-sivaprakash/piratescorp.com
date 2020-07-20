@@ -17,6 +17,7 @@ const Testmonials = () => {
                     loop
                     items={1}
                     nav
+                    dots={true}
                     autoplay={true}
                 >
                     <div className="items">
@@ -60,7 +61,7 @@ const Testmonials = () => {
                                 <div className="testimonial-review">
 
                                     <p className="review">Vom Rechte, das mit Recht; denn alles, was ihr Sünde, Zerstörung, kurz
-              das Böse will und stets das Gute schafft.   das Böse will und stets das Gute schafft.</p>
+                                    das Böse will und stets das Gute schafft.   das Böse will und stets das Gute schafft.</p>
 
                                     <div className="client-details">
                                         <p className="client-name">V.Senthamizhselvan</p>
