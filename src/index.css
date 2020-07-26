@@ -1987,11 +1987,13 @@ textarea {
   }
 
   .con-bg {
+    
     background-image: url(./img/contact-bg.png);
     width: 100%;
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
+    
   }
 
   .contact-row {
