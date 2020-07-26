@@ -2088,7 +2088,7 @@ textarea {
 
   #footer {
     margin-top: 2.5rem;
-    min-height: 30vh;
+    max-height: 30vh;
   }
 
   .footer-bg {
@@ -2644,7 +2644,7 @@ textarea {
   /*==footer==*/
 
   #footer {
-    min-height: 30vh;
+    max-height: 30vh;
   }
 
   .footer-bg {
