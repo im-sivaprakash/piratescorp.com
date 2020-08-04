@@ -259,7 +259,7 @@ textarea {
     text-align: center;
     height: 280px;
     width: 280px;
-    background-image: url(./img/person-bg.png);
+    background-image: url(../img/person-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -405,7 +405,7 @@ textarea {
     min-height: 90vh;
   }
   .con-bg {
-    background-image: url(./img/contact-bg.png);
+    background-image: url(../img/contact-bg.png);
     display: block;
     width: 100% !important;
     background-repeat: no-repeat;
@@ -759,7 +759,7 @@ textarea {
     text-align: center;
     height: 280px;
     width: 280px;
-    background-image: url(./img/person-bg.png);
+    background-image: url(../img/person-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -907,7 +907,7 @@ textarea {
     min-height: 80vh;
   }
   .con-bg {
-    background-image: url(./img/contact-bg.png);
+    background-image: url(../img/contact-bg.png);
     display: block;
     width: 100vw !important;
     background-repeat: no-repeat;
@@ -1275,7 +1275,7 @@ textarea {
     text-align: center;
     height: 280px;
     width: 280px;
-    background-image: url(./img/person-bg.png);
+    background-image: url(../img/person-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1423,7 +1423,7 @@ textarea {
     min-height: 90vh;
   }
   .con-bg {
-    background-image: url(./img/contact-bg.png);
+    background-image: url(../img/contact-bg.png);
     width: 100%;
     background-repeat: no-repeat;
     background-position: right;
@@ -1632,7 +1632,7 @@ textarea {
   }
 
   #compass-img {
-    background-image: url(./img/nav-items/compass.svg);
+    background-image: url(../img/nav-items/compass.svg);
     background-position: center;
     background-size: contain;
     border-radius: 50%;
@@ -1834,7 +1834,7 @@ textarea {
     text-align: center;
     height: 280px;
     width: 280px;
-    background-image: url(./img/person-bg.png);
+    background-image: url(../img/person-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1987,13 +1987,11 @@ textarea {
   }
 
   .con-bg {
-    
-    background-image: url(./img/contact-bg.png);
+    background-image: url(../img/contact-bg.png);
     width: 100%;
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
-    
   }
 
   .contact-row {
@@ -2201,7 +2199,7 @@ textarea {
   }
 
   #compass-img {
-    background-image: url(./img/nav-items/compass.svg);
+    background-image: url(../img/nav-items/compass.svg);
     background-position: center;
     background-size: contain;
     border-radius: 50%;
@@ -2399,7 +2397,7 @@ textarea {
     text-align: center;
     height: 280px;
     width: 280px;
-    background-image: url(./img/person-bg.png);
+    background-image: url(../img/person-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -2548,7 +2546,7 @@ textarea {
   }
 
   .con-bg {
-    background-image: url(./img/contact-bg.png);
+    background-image: url(../img/contact-bg.png);
     width: 100%;
     background-repeat: no-repeat;
     background-position: right;
