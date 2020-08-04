@@ -16,11 +16,10 @@ const Service = () => {
                 Secure and Fastest web hosting
               </h4>
               <p className="service-info">
-                We provide a shared hosting service which is more fast and
-                secure with excellent user experience. For dynamic and live
-                websites it is most recommended to host it on the internet and
-                we provide various packages at normal cost according to your
-                needs and business type which is effective and highly featured
+                
+We provide a shared hosting service which is more fast and secure with excellent user experience.we provide various packages according to your business types which is effective and highly featured by which handling of websites, database and emails was made effort free. Uptime and technical support is provided at its best.
+
+
               </p>
               <div className="btn-holder">
                 <a href="/hosting" className="pi-btn2">
@@ -34,10 +33,9 @@ const Service = () => {
             <div className="info-side">
               <h4 className="service-heading">Domain Registeration</h4>
               <p className="service-info">
-                `You promised to tell its age, there was no more to be two
-                people! And yet I wish you were down here till I'm somebody
-                else"--but, oh dear!' cried Alice, with a pair of boots every
-                Christmas.'
+              Domain registration is done once you select the package and confirm your payment and we offer all kinds of domain. We further offer free  ssl and WhoisGuard.technical support is provided at its best.
+
+
               </p>
               <div className="btn-holder">
                 <a href="/hosting" className="pi-btn2">
@@ -57,10 +55,9 @@ const Service = () => {
             <div className="info-side">
               <h4 className="service-heading">website Development</h4>
               <p className="service-info">
-                `You promised to tell its age, there was no more to be two
-                people! And yet I wish you were down here till I'm somebody
-                else"--but, oh dear!' cried Alice, with a pair of boots every
-                Christmas.'
+              Dynamic and mobile responsive websites are developed with good user interface and experience. Designed for different business and professionals according to requirements. 
+
+
               </p>
               <div className="btn-holder">
                 <a href="/hosting" className="pi-btn2">
@@ -74,10 +71,7 @@ const Service = () => {
             <div className="info-side">
               <h4 className="service-heading">Graphic and Web Designing</h4>
               <p className="service-info">
-                `You promised to tell its age, there was no more to be two
-                people! And yet I wish you were down here till I'm somebody
-                else"--but, oh dear!' cried Alice, with a pair of boots every
-                Christmas.'
+              Wanna design more interactive posters and unique logos for your business or advertising purpose? do reach us with content and idea we create incredible and good looking designs with great user experience
               </p>
               <div className="btn-holder">
                 <a href="/hosting" className="pi-btn2">

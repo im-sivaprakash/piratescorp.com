@@ -10,9 +10,7 @@ const About = () => {
           </div>
             <div className="about-info">
               <h3 className="about-heading">About Us</h3>
-              <p id="about-text">We provide a reliable and affordable platform for engaging business
-               applications. We have mainly enabled web hosting services to customers by offering 
-               different packages with more fast and secure cPanel.
+              <p id="about-text">We provide a reliable and affordable platform for engaging business applications. We have mainly enabled web hosting services to customers by offering different packages with more fast and secure cPanel. Check out our packages and features it covers, we offer bandwidth and website host limit according to package and you can select based on your requirement.
               </p>
               <div className="Social-media-holder">
                 <a className="soc-round" href="/insta"><i className="fab fa-whatsapp"></i></a>

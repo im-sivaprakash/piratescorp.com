@@ -1,25 +1,13 @@
 import React from 'react';
-import Navbar from "./Components/Navbar";
-import Home from "./Components/Home";
-import Service from "./Components/Service";
-import Testimonials from "./Components/Testimonials"
-import About from './Components/About';
-import Contact from './Components/Contact';
-import Footer from './Components/Footer';
-
-
+import {Router} from 'react-router-dom';
+import Routes from "./Routes/index"
+import history from './Service/history'
 
 function App() {
   return (
-  <React.Fragment>
-   <Navbar/>
-   <Home/>
-   <Service />
-   <Testimonials/>
-   <About/>
-   <Contact />
-   <Footer/>
-  </React.Fragment>
+  <Router history={history}>
+    <Routes/>
+  </Router>
   );
 }
 
