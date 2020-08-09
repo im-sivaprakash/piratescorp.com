@@ -182,7 +182,7 @@ textarea {
 
   /* ==== Home ==== */
   #home {
-    min-height: 115vh;
+    min-height: 100vh;
     position: relative;
     width: 100%;
     overflow: hidden;
