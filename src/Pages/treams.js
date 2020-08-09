@@ -1,16 +1,14 @@
-import React from 'react';
-import Footer from '../Components/Footer';
-import Navbar2 from "../Components/Navbar2"
-
-
+import React from "react";
+import Footer from "../Components/Footer";
+import Navbar from "../Components/Navbar";
 
 function treams() {
   return (
-  <React.Fragment>
-   <Navbar2/>
- 
-   <Footer/>
-  </React.Fragment>
+    <React.Fragment>
+      <Navbar />
+
+      <Footer />
+    </React.Fragment>
   );
 }
 
