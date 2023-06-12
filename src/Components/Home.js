@@ -48,7 +48,7 @@ const Home = () => {
       <section id="home">
         <Navbar />
         <h2 className="title">
-          let's make huge by <br />
+          let's make huge by ..<br />
           doing small
         </h2>
         <img src={boat} className="boat" id="boat" alt="boat" />
